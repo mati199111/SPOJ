@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\1\Source\Repos\kolejka\kolejka\Źródło.cpp(75): warning C4715: "_switch”: niewszystkie ścieżki kodu zwracają wartość
+  kolejka.vcxproj -> C:\Users\1\Source\Repos\kolejka\Debug\kolejka.exe
