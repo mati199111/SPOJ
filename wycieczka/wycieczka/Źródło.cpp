@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
 using namespace std;
 int** create_empty_matrix(int m, int n);
 int** create_realtion_matrix(vector <pair<int, int>> relation);
