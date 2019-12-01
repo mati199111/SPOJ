@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+C:\Users\m_rac\source\repos\wycieczka\wycieczka\Źródło.cpp(57,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\m_rac\source\repos\wycieczka\wycieczka\Źródło.cpp(65,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  wycieczka.vcxproj -> C:\Users\m_rac\source\repos\wycieczka\Debug\wycieczka.exe
